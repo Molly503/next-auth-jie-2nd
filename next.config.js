@@ -7,6 +7,7 @@
 // };
 
 //this is 2nd version suggested by copilot
+//这个文档可能重复了
 module.exports = {
   images: {
     remotePatterns: [
